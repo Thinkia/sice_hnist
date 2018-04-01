@@ -51,13 +51,13 @@ img{border:none;}
 .head_d{height:38px;margin:0 auto;background:#0a356f;}
 
 
-.ddsmoothmenu{ font-size:15px; color:#fff; width:1200px; height:38px; line-height:38px;margin:0 auto;}
+.ddsmoothmenu{ font-size:17px; color:#fff; width:1200px; height:38px; line-height:38px;margin:0 auto;}
 .ddsmoothmenu ul{margin: 0;padding: 0;list-style-type: none;}
 .ddsmoothmenu ul li{position: relative;display: inline;float: left !important; }
 
 .ddsmoothmenu ul li.sel{}
 .ddsmoothmenu ul li.sel>a{ color:#636363;}
-.ddsmoothmenu ul li a{display: block;color: #fff;text-decoration: none;width:88px;height:38px;text-align:center;margin-right:4px;}
+.ddsmoothmenu ul li a{display: block;color: #fff;text-decoration: none;width:100px;height:36px;text-align:center;margin-right:16px;}
 * html .ddsmoothmenu ul li a{ display: inline-block;}
 .ddsmoothmenu ul li a:link, .ddsmoothmenu ul li a:visited{}
 .ddsmoothmenu ul li a.selected,.ddsmoothmenu ul li a:hover{ color:#fff !important;line-height:38px;background:#000;}
@@ -146,7 +146,7 @@ filter:progid:DXImageTransform.Microsoft.gradient( GradientType = 0,startColorst
 .user_login{width:120px;height:46px;margin:15px 0 0 15px;}
 .solution{width:90px;height:55px;margin:13px 5px 0 0;}
 .pic_news{overflow:hidden;margin-top:15px;}
-.pic_news_title{background:url() repeat-x left center;}
+.pic_news_title{background:url(../images/tf_23.jpg) repeat-x left center;}
 .pic_news_more{background:#fff;margin:1px;padding:0 10px;margin-top:2px;}
 .pic_news_mame{padding-left:0;background:#fff;padding:2px 5px 2px 0;}
 
@@ -162,7 +162,7 @@ filter:progid:DXImageTransform.Microsoft.gradient( GradientType = 0,startColorst
 .rollBox #List1,.rollBox #List2{float:left;} 
 .special_con{overflow:hidden;}
 .special_con ul{overflow:hidden;}
-.special_con ul li{background:url() no-repeat;width:240px;height:41px;float:left;font-size:14px;line-height:41px;text-indent:2em;margin:15px 14px 0 0;}
+.special_con ul li{background:url(../images/tb_22.jpg) no-repeat;width:240px;height:41px;float:left;font-size:14px;line-height:41px;text-indent:2em;margin:15px 14px 0 0;}
 .special_con ul li:hover{background:url() no-repeat;}
 .special_con ul li a{color:#333333;}
 .special_con ul li:hover a{color:#fff;}
