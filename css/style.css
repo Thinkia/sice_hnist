@@ -67,7 +67,7 @@ img{border:none;}
 
 .ddsmoothmenu ul li ul li{display: list-item; width:145px;height:35px;border-bottom:1px solid #555;background:url() no-repeat 125px center;}
 
-.ddsmoothmenu ul li ul li a{color: #fff;font-size: 12px;font-weight: normal;margin: 0; padding:0px; width:127px;height:35px;background:url() no-repeat 125px center #000;text-align:left;padding-left:18px;border-bottom:none !important;filter:alpha(opacity=80); 
+.ddsmoothmenu ul li ul li a{color: #fff;font-size: 14px;font-weight: normal;margin: 0; padding:0px; width:127px;height:35px;background:url() no-repeat 125px center #000;text-align:left;padding-left:18px;border-bottom:none !important;filter:alpha(opacity=80); 
         -moz-opacity:0.8; 
         opacity:0.8;}
 .ddsmoothmenu ul li ul li a.selected{
