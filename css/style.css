@@ -128,18 +128,18 @@ filter:progid:DXImageTransform.Microsoft.gradient( GradientType = 0,startColorst
 .mr_one_pic ul{overflow:hidden;height:82px;}
 .mr_one_pic ul li{width:93px;height:82px;float:left;margin-right:5px;}
 .mr_one_pic ul li.mro_last{margin-right:0;}
-.mro_pic_1{background:url() center center no-repeat #eeeeee;width:93px;height:59px;display:block;}
-.mro_pic_2{background:url() center center no-repeat #eeeeee;width:93px;height:59px;display:block;}
-.mro_pic_3{background:url() center center no-repeat #eeeeee;width:93px;height:59px;display:block;}
-.mro_pic_4{background:url() center center no-repeat #eeeeee;width:93px;height:59px;display:block;}
-.mro_pic_5{background:url() center center no-repeat #eeeeee;width:93px;height:59px;display:block;}
+.mro_pic_1{background:url(../images/group.png) center center no-repeat #eeeeee;width:93px;height:59px;display:block;}
+.mro_pic_2{background:url(../images/team.png) center center no-repeat #eeeeee;width:93px;height:59px;display:block;}
+.mro_pic_3{background:url(../images/study.png) center center no-repeat #eeeeee;width:93px;height:59px;display:block;}
+.mro_pic_4{background:url(../images/reward.png) center center no-repeat #eeeeee;width:93px;height:59px;display:block;}
+.mro_pic_5{background:url(../images/match.png) center center no-repeat #eeeeee;width:93px;height:59px;display:block;}
 .mro_name{display:block;background:#0E5EBE;height:23px;line-height:23px;text-align:center;color:#fff;}
 
-.mr_one_pic ul li:hover .mro_pic_1{background:url() center center no-repeat #eeeeee;}
-.mr_one_pic ul li:hover .mro_pic_2{background:url() center center no-repeat #eeeeee;}
-.mr_one_pic ul li:hover .mro_pic_3{background:url() center center no-repeat #eeeeee;}
-.mr_one_pic ul li:hover .mro_pic_4{background:url() center center no-repeat #eeeeee;}
-.mr_one_pic ul li:hover .mro_pic_5{background:url() center center no-repeat #eeeeee;}
+.mr_one_pic ul li:hover .mro_pic_1{background:url(../images/group.png) center center no-repeat #eeeeee;}
+.mr_one_pic ul li:hover .mro_pic_2{background:url(../images/team.png) center center no-repeat #eeeeee;}
+.mr_one_pic ul li:hover .mro_pic_3{background:url(../images/study.png) center center no-repeat #eeeeee;}
+.mr_one_pic ul li:hover .mro_pic_4{background:url(../images/reward.png) center center no-repeat #eeeeee;}
+.mr_one_pic ul li:hover .mro_pic_5{background:url(../images/match.png) center center no-repeat #eeeeee;}
 
 .mr_one_pic ul li:hover .mro_name{background:#67CB33;} 
 .mr_one_r{background:url(../images/y_03.jpg) no-repeat;width:258px;height:82px;}
