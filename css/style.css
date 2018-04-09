@@ -266,7 +266,7 @@ filter:progid:DXImageTransform.Microsoft.gradient( GradientType = 0,startColorst
 .list_right{width:900px;height:auto;overflow:hidden;float:right;border:1px solid #e2e2e2;margin-bottom:15px;}
 .list_r_t{background:url(../images/list_14.png) repeat-x;width:900px;height:33px;line-height:33px;border-bottom:1px solid #e2e2e2;}
 .list_r_d{height:auto;overflow:hidden;min-height:670px;}
-.location{margin:0 auto;width:1200px;margin-top:10px;background:url(../images/list_07.png) no-repeat left center;border-bottom:1px solid #ddd;height:35px;line-height:35px;padding-left:20px;}
+.location{margin:0 auto;width:1200px;margin-top:10px;background:url(../images/) no-repeat left center;border-bottom:1px solid #ddd;height:35px;line-height:35px;padding-left:20px;}
 .list_r_d ul{padding:15px 40px;}
 .list_r_d ul li{line-height:35px;background:url(../images/list_19.png) no-repeat left center;padding-left:10px;font-size:14px;border-bottom:1px dotted #ccc;}
 .list_r_d ul li a{color:#555;}
@@ -293,8 +293,8 @@ filter:progid:DXImageTransform.Microsoft.gradient( GradientType = 0,startColorst
 .menu li ul.level2 li a:hover{color:#0339bd;}
 
 /*contnet*/
-.cont_c{border:1px solid #ddd;background:url(../images/c_03.jpg) repeat-x;margin-top:20px;padding:20px;font-family:"Microsoft YaHei";margin-bottom:15px; }
-.locat{background:url(../images/list_07.png) no-repeat left center;padding-left:20px;height:30px;line-height:30px;}
+.cont_c{border:1px solid #ddd;background:url(../images/) repeat-x;margin-top:20px;padding:20px;font-family:"Microsoft YaHei";margin-bottom:15px; }
+.locat{background:url(../images/) no-repeat left center;padding-left:20px;height:30px;line-height:30px;}
 .cont_con{margin-top:30px;width:1100px;margin:0 auto;}
 .c_title{color:#cc0000;font-size:20px;text-align:center;line-height:60px;}
 .other{color:#666;text-align:center;border-bottom:1px solid #ddd;line-height:30px;}
@@ -305,7 +305,7 @@ filter:progid:DXImageTransform.Microsoft.gradient( GradientType = 0,startColorst
 .page_bar{overflow:hidden;height:30px;line-height:30px;}
 .page_bar a{color:#666;padding-left:30px;}
 .pre{background:url(../images/left_03.png) no-repeat left center;}
-.next1{background:url(../images/left_05.jpg) no-repeat left center;}
+.next1{background:url(../images/) no-repeat left center;}
 
 .list_sy{overflow:hidden;margin:15px 40px;}
 .list_tw{border-bottom:1px dashed #ccc;padding:20px 0;overflow:hidden;}
