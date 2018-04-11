@@ -108,7 +108,7 @@ filter:progid:DXImageTransform.Microsoft.gradient( GradientType = 0,startColorst
 /*main_one*/
 .main_one{width:1200px;height:auto;overflow:hidden;margin:0 auto;margin-top:15px;}
 .tf_news{width:430px;height:auto;overflow:hidden;}
-.tf_news_title{background:url() no-repeat left center;border-bottom:1px solid #0E5EBE;height:35px;line-height:35px;}
+.tf_news_title{background:url(../images/tf_13.jpg) no-repeat left center;border-bottom:1px solid #0E5EBE;height:35px;line-height:35px;}
 .more a{color:#555555;}
 .more a .add{color:#0c4b91;padding-right:5px;}
 .name{color:#0E5EBE;font-size:16px;padding-left:33px;font-weight:600;}
@@ -170,7 +170,7 @@ filter:progid:DXImageTransform.Microsoft.gradient( GradientType = 0,startColorst
 
 .main_two{width:1200px;height:322px;overflow:hidden;margin:0 auto;margin-top:15px;}
 .notice{width:430px;overflow:hidden;}
-.notice_title{background:url() no-repeat left center;}
+.notice_title{background:url(../images/tf_32.jpg) no-repeat left center;}
 .main_two_right{width:748px;overflow:hidden;}
 .notice_con{}
 .notice_con ul{overflow:hidden;padding:15px 0;}
